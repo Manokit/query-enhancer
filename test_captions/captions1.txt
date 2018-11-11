@@ -1,0 +1,1 @@
+I am currently trying to figure out how I can recreate the tokenizer and the cosine similarity function from my time at Effect Tech
